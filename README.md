@@ -31,7 +31,6 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Image](https://github.com/annaesvensson/yellow-image) - Images and thumbnails. Developed by Anna Svensson.
 * [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Include page content from other pages. Developed by Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Embed Instagram photos. Developed by Giovanni Salmeri.
-* [Install](https://github.com/annaesvensson/yellow-install) - Install a brand new, shiny website. Developed by Anna Svensson.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown) - Text formatting for humans. Developed by Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta) - Meta data for humans and machines. Developed by Anna Svensson, Steffen Schultz.
 * [Pagesource](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/pagesource) - Display Markdown source on pages. Developed by Steffen Schultz.
