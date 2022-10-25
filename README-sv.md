@@ -31,7 +31,6 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Bilder och miniatyrbilder. Utvecklad av Anna Svensson.
 * [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Inkludera sidinnehåll från andra sidor. Utvecklad av Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Bädda in Instagram-foton. Utvecklad av Giovanni Salmeri.
-* [Install](https://github.com/annaesvensson/yellow-install/tree/main/README-sv.md) - Installera en helt ny, underbar webbplats. Utvecklad av Anna Svensson.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-sv.md) - Metadata för människor och maskiner. Utvecklad av Anna Svensson, Steffen Schultz.
 * [Pagesource](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/pagesource) - Visa Markdown-källtext på sidor. Utvecklad av Steffen Schultz.
