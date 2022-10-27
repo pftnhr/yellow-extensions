@@ -42,7 +42,7 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 * [Publish](https://github.com/annaesvensson/yellow-publish/tree/main/README-sv.md) - Göra och publicera tillägg. Utvecklad av Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss) - Widgets för RadioBoss Cloud. Utvecklad av Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random) - Visa slumpmässiga sidor. Utvecklad av Steffen Schultz.
-* [Readingtime](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/readingtime) - Visar den uppskattade lästiden för sidans innehåll. Utvecklad av Steffen Schultz.
+* [Readingtime](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/readingtime) - Visa den uppskattade lästiden för sidans innehåll. Utvecklad av Steffen Schultz.
 * [Redirect](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/redirect) - Alternativ sida omdirigering. Utvecklad av Steffen Schultz.
 * [Search](https://github.com/annaesvensson/yellow-search/tree/main/README-sv.md) - Heltekstsökning. Utvecklad av Anna Svensson.
 * [Serve](https://github.com/annaesvensson/yellow-serve/tree/main/README-sv.md) - Inbyggd webbserver. Utvecklad av Anna Svensson.
