@@ -60,24 +60,24 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 
 ## Languages
 
-* [Chinese](https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese) - Chinese/简体中文 with language `zh`. Translated by Hyson Lee.
-* [Czech](https://github.com/annaesvensson/yellow-language/tree/main/translations/czech) - Czech/Čeština with language `cs`. Translated by Ufo Vyhuleny.
-* [Danish](https://github.com/annaesvensson/yellow-language/tree/main/translations/danish) - Danish/Dansk with language `da`. Translated by David Garcia.
-* [Dutch](https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch) - Dutch/Nederlands with language `nl`. Translated by Robin Vannieuwenhuijse.
-* [English](https://github.com/annaesvensson/yellow-language/tree/main/translations/english) - English/English with language `en`. Translated by Mark Seuffert.
-* [French](https://github.com/annaesvensson/yellow-language/tree/main/translations/french) - French/Français with language `fr`. Translated by Juh Nibreh.
-* [German](https://github.com/annaesvensson/yellow-language/tree/main/translations/german) - German/Deutsch with language `de`. Translated by David Fehrmann.
-* [Hungarian](https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian) - Hungarian/Magyar with language `hu`. Translated by Ádám Tuba.
-* [Italian](https://github.com/annaesvensson/yellow-language/tree/main/translations/italian) - Italian/Italiano with language `it`. Translated by Giovanni Salmeri.
-* [Japanese](https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese) - Japanese/日本語 with language `ja`. Translated by Yuhko Senuma, Tomonori Ikeda.
-* [Norwegian](https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian) - Norwegian/Norsk with language `nb`. Translated by Per Arne Solvik.
-* [Polish](https://github.com/annaesvensson/yellow-language/tree/main/translations/polish) - Polish/Polski with language `pl`. Translated by Paweł Klockiewicz, Kanbeq.
-* [Portuguese](https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese) - Portuguese/Português with language `pt`. Translated by Al Garcia.
-* [Russian](https://github.com/annaesvensson/yellow-language/tree/main/translations/russian) - Russian/Русский with language `ru`. Translated by Сергей Ворон.
-* [Slovak](https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak) - Slovak/Slovenčina with language `sk`. Translated by Ádám Tuba.
-* [Spanish](https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish) - Spanish/Español with language `es`. Translated by Al Garcia, David Garcia.
-* [Swedish](https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish) - Swedish/Svenska with language `sv`. Translated by Anna Svensson.
-* [Turkish](https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish) - Turkish/Türkçe with language `tr`. Translated by Osman Kars.
+* [Chinese](https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese) - Chinese language. Translated by Hyson Lee.
+* [Czech](https://github.com/annaesvensson/yellow-language/tree/main/translations/czech) - Czech language. Translated by Ufo Vyhuleny.
+* [Danish](https://github.com/annaesvensson/yellow-language/tree/main/translations/danish) - Danish language. Translated by David Garcia.
+* [Dutch](https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch) - Dutch language. Translated by Robin Vannieuwenhuijse.
+* [English](https://github.com/annaesvensson/yellow-language/tree/main/translations/english) - English language. Translated by Mark Seuffert.
+* [French](https://github.com/annaesvensson/yellow-language/tree/main/translations/french) - French language. Translated by Juh Nibreh.
+* [German](https://github.com/annaesvensson/yellow-language/tree/main/translations/german) - German language. Translated by David Fehrmann.
+* [Hungarian](https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian) - Hungarian language. Translated by Ádám Tuba.
+* [Italian](https://github.com/annaesvensson/yellow-language/tree/main/translations/italian) - Italian language. Translated by Giovanni Salmeri.
+* [Japanese](https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese) - Japanese language. Translated by Yuhko Senuma, Tomonori Ikeda.
+* [Norwegian](https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian) - Norwegian language. Translated by Per Arne Solvik.
+* [Polish](https://github.com/annaesvensson/yellow-language/tree/main/translations/polish) - Polish language. Translated by Paweł Klockiewicz, Kanbeq.
+* [Portuguese](https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese) - Portuguese language. Translated by Al Garcia.
+* [Russian](https://github.com/annaesvensson/yellow-language/tree/main/translations/russian) - Russian language. Translated by Сергей Ворон.
+* [Slovak](https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak) - Slovak language. Translated by Ádám Tuba.
+* [Spanish](https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish) - Spanish language. Translated by Al Garcia, David Garcia.
+* [Swedish](https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish) - Swedish language. Translated by Anna Svensson.
+* [Turkish](https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish) - Turkish language. Translated by Osman Kars.
 
 ## Themes
 

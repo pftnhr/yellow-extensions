@@ -60,24 +60,24 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 
 ## Språk
 
-* [Chinese](https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese) - Kinesiskt/简体中文 med språket `zh`. Översatt av Hyson Lee.
-* [Czech](https://github.com/annaesvensson/yellow-language/tree/main/translations/czech) - Czech/Tjeckiskt med språket `cs`. Översatt av Ufo Vyhuleny.
-* [Danish](https://github.com/annaesvensson/yellow-language/tree/main/translations/danish) - Danska/Dansk med språket `da`. Översatt av David Garcia.
-* [Dutch](https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch) - Holländska/Nederlands med språket `nl`. Översatt av Robin Vannieuwenhuijse.
-* [English](https://github.com/annaesvensson/yellow-language/tree/main/translations/english) - Engelska/English med språket `en`. Översatt av Mark Seuffert.
-* [French](https://github.com/annaesvensson/yellow-language/tree/main/translations/french) - Franska/Français med språket `fr`. Översatt av Juh Nibreh.
-* [German](https://github.com/annaesvensson/yellow-language/tree/main/translations/german) - Tyska/Deutsch med språket `de`. Översatt av David Fehrmann.
-* [Hungarian](https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian) - Ungerska/Magyar med språket `hu`. Översatt av Ádám Tuba.
-* [Italian](https://github.com/annaesvensson/yellow-language/tree/main/translations/italian) - Italienska/Italiano med språket `it`. Översatt av Giovanni Salmeri.
-* [Japanese](https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese) - Japanska/日本語 med språket `ja`. Översatt av Yuhko Senuma, Tomonori Ikeda.
-* [Norwegian](https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian) - Norska/Norsk med språket `nb`. Översatt av Per Arne Solvik.
-* [Polish](https://github.com/annaesvensson/yellow-language/tree/main/translations/polish) - Polska/Polski med språket `pl`. Översatt av Paweł Klockiewicz, Kanbeq.
-* [Portuguese](https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese) - Portugisiska/Português med språket `pt`. Översatt av Al Garcia.
-* [Russian](https://github.com/annaesvensson/yellow-language/tree/main/translations/russian) - Ryska/Русский med språket `ru`. Översatt av Сергей Ворон.
-* [Slovak](https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak) - Slovakiska/Slovenčina med språket `sk`. Översatt av Ádám Tuba.
-* [Spanish](https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish) - Spanska/Español med språket `es`. Översatt av Al Garcia, David Garcia.
-* [Swedish](https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish) - Svenska/Svenska med språket `sv`. Översatt av Anna Svensson.
-* [Turkish](https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish) - Turkiska/Türkçe med språket `tr`. Översatt av Osman Kars.
+* [Chinese](https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese) - Kinesiska språket. Översatt av Hyson Lee.
+* [Czech](https://github.com/annaesvensson/yellow-language/tree/main/translations/czech) - Tjeckiska språket. Översatt av Ufo Vyhuleny.
+* [Danish](https://github.com/annaesvensson/yellow-language/tree/main/translations/danish) - Danska språket. Översatt av David Garcia.
+* [Dutch](https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch) - Nederländska språket. Översatt av Robin Vannieuwenhuijse.
+* [English](https://github.com/annaesvensson/yellow-language/tree/main/translations/english) - Engelska språket. Översatt av Mark Seuffert.
+* [French](https://github.com/annaesvensson/yellow-language/tree/main/translations/french) - Franska språket. Översatt av Juh Nibreh.
+* [German](https://github.com/annaesvensson/yellow-language/tree/main/translations/german) - Tyska språket. Översatt av David Fehrmann.
+* [Hungarian](https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian) - Ungerska språket. Översatt av Ádám Tuba.
+* [Italian](https://github.com/annaesvensson/yellow-language/tree/main/translations/italian) - Italienska språket. Översatt av Giovanni Salmeri.
+* [Japanese](https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese) - Japanska språket. Översatt av Yuhko Senuma, Tomonori Ikeda.
+* [Norwegian](https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian) - Norska språket. Översatt av Per Arne Solvik.
+* [Polish](https://github.com/annaesvensson/yellow-language/tree/main/translations/polish) - Polska språket. Översatt av Paweł Klockiewicz, Kanbeq.
+* [Portuguese](https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese) - Portugisiska språket. Översatt av Al Garcia.
+* [Russian](https://github.com/annaesvensson/yellow-language/tree/main/translations/russian) - Ryska språket. Översatt av Сергей Ворон.
+* [Slovak](https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak) - Slovakiska språket. Översatt av Ádám Tuba.
+* [Spanish](https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish) - Spanska språket. Översatt av Al Garcia, David Garcia.
+* [Swedish](https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish) - Svenska språket. Översatt av Anna Svensson.
+* [Turkish](https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish) - Turkiska språket. Översatt av Osman Kars.
 
 ## Teman
 
