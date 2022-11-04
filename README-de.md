@@ -29,7 +29,7 @@ Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) - Hilfe für deine Webseite. Entwickelt von Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen. Entwickelt von Anna Svensson.
-* [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include/README-de.md) - Inhalt von anderen Seiten einbinden. Entwickelt von Steffen Schultz.
+* [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include/README-de.md) - Seiteninhalt von anderen Seiten einbinden. Entwickelt von Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Instagram-Fotos einbinden. Entwickelt von Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson, Steffen Schultz.
