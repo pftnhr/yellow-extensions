@@ -16,7 +16,7 @@ Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität der Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
 * [Csv](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/csv/README-de.md) - CSV-Dateileser. Entwickelt von Steffen Schultz.
-* [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily) - Tägliche Seiten anzeigen. Entwickelt von Steffen Schultz.
+* [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily/README-de.md) - Tägliche Seiten anzeigen. Entwickelt von Steffen Schultz.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-de.md) - Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) - Webseite im Webbrowser bearbeiten. Entwickelt von Anna Svensson.
 * [Emojiawesome](https://github.com/annaesvensson/yellow-emojiawesome/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
