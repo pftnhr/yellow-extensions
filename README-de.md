@@ -38,7 +38,6 @@ Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast/README-de.md) - Web-Feed optimiert für die Podcast-Veröffentlichung. Entwickelt von Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-de.md) - Links zu vorherigen/nächsten Seite anzeigen. Entwickelt von Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/private/README-de.md) - Unterstützung für passwortgeschützte Seiten. Entwickelt von Steffen Schultz.
-* [Profile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/profile/README-de.md) - Autorenprofil für Blogseiten. Entwickelt von Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish/tree/main/README-de.md) - Erweiterungen erstellen und veröffentlichen. Entwickelt von Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss/README-de.md) - Widgets für RadioBoss Cloud. Entwickelt von Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random/README-de.md) - Zufällige Seiten anzeigen. Entwickelt von Steffen Schultz.
@@ -50,7 +49,6 @@ Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-de.md) - Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud/README-de.md) - Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
-* [Ticker](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/ticker/README-de.md) - RSS-Feed-Leser. Entwickelt von Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
 * [Twitter](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/twitter/README-de.md) - Twitter-Nachrichten einbinden. Entwickelt von Steffen Schultz.

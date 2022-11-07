@@ -38,7 +38,6 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast) - Web feed optimized for podcast publishing. Developed by Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext) - Show links to previous/next page. Developed by Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/private) - Support for password-protected pages. Developed by Steffen Schultz.
-* [Profile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/profile) - Author profile for blog pages. Developed by Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish) - Make and publish extensions. Developed by Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss) - Widgets for RadioBoss Cloud. Developed by Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random) - Display random pages. Developed by Steffen Schultz.
@@ -50,7 +49,6 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Slider](https://github.com/annaesvensson/yellow-slider) - Image gallery with slider. Developed by Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud) - Embed Soundcloud audio tracks. Developed by Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Hide certain page elements. Developed by Steffen Schultz.
-* [Ticker](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/ticker) - RSS feed parser. Developed by Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc) - Table of contents. Developed by Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic) - Create traffic analytics from log files. Developed by Anna Svensson.
 * [Twitter](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/twitter) - Embed Twitter messages. Developed by Steffen Schultz.
