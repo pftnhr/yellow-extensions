@@ -2,7 +2,7 @@
 
 # Datenstrom Yellow Erweiterungen
 
-Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de/yellow/
+Funktionen, Sprachen und Themes für Datenstrom Yellow. https://datenstrom.se/de/yellow/
 
 ## Funktionen
 
@@ -77,12 +77,12 @@ Funktionen, Sprachen und Themen für Datenstrom Yellow. https://datenstrom.se/de
 * [Swedish](https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish) - Schwedische Sprache. Übersetzt von Anna Svensson.
 * [Turkish](https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish) - Türkische Sprache. Übersetzt von Osman Kars.
 
-## Themen
+## Themes
 
-* [Berlin](https://github.com/annaesvensson/yellow-berlin/tree/main/README-de.md) - Berlin ist ein Thema inspiriert von Dieter Rams. Entworfen von Anna Svensson.
-* [Copenhagen](https://github.com/annaesvensson/yellow-copenhagen/tree/main/README-de.md) - Copenhagen ist ein schönes Thema. Entworfen von Anna Svensson.
-* [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-de.md) - Paris ist ein elegantes Thema. Entworfen von Anna Svensson.
-* [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-de.md) - Stockholm ist ein schlichtes Thema. Entworfen von Anna Svensson.
+* [Berlin](https://github.com/annaesvensson/yellow-berlin/tree/main/README-de.md) - Berlin ist ein Theme inspiriert von Dieter Rams. Entworfen von Anna Svensson.
+* [Copenhagen](https://github.com/annaesvensson/yellow-copenhagen/tree/main/README-de.md) - Copenhagen ist ein schönes Theme. Entworfen von Anna Svensson.
+* [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-de.md) - Paris ist ein elegantes Theme. Entworfen von Anna Svensson.
+* [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-de.md) - Stockholm ist ein schlichtes Theme. Entworfen von Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock/tree/main/README-de.md) - Wittstock ist ein klassenloses Theme. Entworfen von Steffen Schultz.
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
