@@ -19,15 +19,15 @@ Funktionen, Sprachen und Themes für Datenstrom Yellow. https://datenstrom.se/de
 * [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily/README-de.md) - Tägliche Seiten anzeigen. Entwickelt von Steffen Schultz.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-de.md) - Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) - Webseite im Webbrowser bearbeiten. Entwickelt von Anna Svensson.
-* [Emojiawesome](https://github.com/annaesvensson/yellow-emojiawesome/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
+* [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed/tree/main/README-de.md) - Feed mit letzten Änderungen. Entwickelt von Anna Svensson.
-* [Fontawesome](https://github.com/annaesvensson/yellow-fontawesome/tree/main/README-de.md) - Icons und Symbole. Entwickelt von Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-de.md) - Bildergalerie mit Popup. Entwickelt von Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-de.md) - Google-Kalender einbinden. Entwickelt von Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-de.md) - Google-Karten einbinden. Entwickelt von Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Beispielfunktion für Datenstrom Yellow. Entwickelt von Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) - Hilfe für deine Webseite. Entwickelt von Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
+* [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-de.md) - Icons und Symbole. Entwickelt von Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen. Entwickelt von Anna Svensson.
 * [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include/README-de.md) - Seiteninhalt von anderen Seiten einbinden. Entwickelt von Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Instagram-Fotos einbinden. Entwickelt von Giovanni Salmeri.

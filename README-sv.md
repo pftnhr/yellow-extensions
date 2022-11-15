@@ -19,15 +19,15 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 * [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily) - Visa dagliga sidor. Utvecklad av Steffen Schultz.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-sv.md) - Stöd för draftsidor. Utvecklad av Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-sv.md) - Redigera din webbplats i en webbläsare. Utvecklad av Anna Svensson.
-* [Emojiawesome](https://github.com/annaesvensson/yellow-emojiawesome/tree/main/README-sv.md) - Massor och massor av emoji. Utvecklad av Anna Svensson.
+* [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-sv.md) - Massor och massor av emoji. Utvecklad av Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed/tree/main/README-sv.md) - Feed med senaste ändringarna. Utvecklad av Anna Svensson.
-* [Fontawesome](https://github.com/annaesvensson/yellow-fontawesome/tree/main/README-sv.md) - Ikoner och symboler. Utvecklad av Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-sv.md) - Bildgalleri med popup. Utvecklad av Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-sv.md) - Bädda in Google-kalender. Utvecklad av Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-sv.md) - Bädda in Google-karta. Utvecklad av Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Exempel-funktion för Datenstrom Yellow. Utvecklad av Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) - Hjälp för din webbplats. Utvecklad av Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-sv.md) - Markera källkod. Utvecklad av Anna Svensson.
+* [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-sv.md) - Ikoner och symboler. Utvecklad av Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Bilder och miniatyrbilder. Utvecklad av Anna Svensson.
 * [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Inkludera sidinnehåll från andra sidor. Utvecklad av Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Bädda in Instagram-foton. Utvecklad av Giovanni Salmeri.

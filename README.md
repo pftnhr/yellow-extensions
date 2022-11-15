@@ -19,15 +19,15 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily) - Show daily pages. Developed by Steffen Schultz.
 * [Draft](https://github.com/annaesvensson/yellow-draft) - Support for draft pages. Developed by Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit) - Edit your website in a web browser. Developed by Anna Svensson.
-* [Emojiawesome](https://github.com/annaesvensson/yellow-emojiawesome) - Lots and lots of emoji. Developed by Anna Svensson.
+* [Emoji](https://github.com/annaesvensson/yellow-emoji) - Lots and lots of emoji. Developed by Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed) - Feed with recent changes. Developed by Anna Svensson.
-* [Fontawesome](https://github.com/annaesvensson/yellow-fontawesome) - Icons and symbols. Developed by Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery) - Image gallery with popup. Developed by Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar) - Embed Google calendar. Developed by Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap) - Embed Google map. Developed by Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Example feature for Datenstrom Yellow. Developed by Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help) - Help for your website. Developed by Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight) - Highlight source code. Developed by Anna Svensson.
+* [Icon](https://github.com/annaesvensson/yellow-icon) - Icons and symbols. Developed by Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image) - Images and thumbnails. Developed by Anna Svensson.
 * [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Include page content from other pages. Developed by Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Embed Instagram photos. Developed by Giovanni Salmeri.
