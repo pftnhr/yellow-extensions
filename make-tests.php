@@ -35,7 +35,7 @@ if (PHP_SAPI!="cli") {
         echo "\rMaking test environment 20%... ";
         $fileData = date("Y-m-d H:i:s")." info Make test environment for Datenstrom Yellow extensions\n";
         file_put_contents("tests/system/extensions/yellow-website.log", $fileData);
-        $fileData = "# Datenstrom Yellow system settings\n\nSitename: Tests\nCommandStaticUrl: http://website\n";
+        $fileData = "# Datenstrom Yellow system settings\n\nSitename: Tests\n";
         file_put_contents("tests/system/extensions/yellow-system.ini", $fileData);
         exec("cd tests; php yellow.php update; php yellow.php skip installation", $outputLines, $returnStatus);
         if ($returnStatus!=0) {
