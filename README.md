@@ -24,7 +24,7 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Gallery](https://github.com/annaesvensson/yellow-gallery) - Image gallery with popup. Developed by Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar) - Embed Google calendar. Developed by Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap) - Embed Google map. Developed by Anna Svensson.
-* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Example feature for Datenstrom Yellow. Developed by Steffen Schultz.
+* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Make animated text. Developed by Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help) - Help for your website. Developed by Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight) - Highlight source code. Developed by Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon) - Icons and symbols. Developed by Anna Svensson.

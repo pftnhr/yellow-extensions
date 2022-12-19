@@ -24,7 +24,7 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-sv.md) - Bildgalleri med popup. Utvecklad av Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-sv.md) - Bädda in Google-kalender. Utvecklad av Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-sv.md) - Bädda in Google-karta. Utvecklad av Anna Svensson.
-* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Exempel-funktion för Datenstrom Yellow. Utvecklad av Steffen Schultz.
+* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Skapa animerad text. Utvecklad av Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) - Hjälp för din webbplats. Utvecklad av Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-sv.md) - Markera källkod. Utvecklad av Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-sv.md) - Ikoner och symboler. Utvecklad av Anna Svensson.
