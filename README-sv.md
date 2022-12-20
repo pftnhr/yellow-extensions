@@ -6,7 +6,6 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 
 ## Funktioner
 
-* [Antispam](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/antispam) - Alternativ e-postadress obfuscator. Utvecklad av Steffen Schultz.
 * [Audio](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/audio) - HTML5 ljudspelare. Utvecklad av Steffen Schultz.
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md) - Blogg för din webbplats. Utvecklad av Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-sv.md) - Brödcrumbnavigering. Utvecklad av Anna Svensson.
@@ -29,11 +28,9 @@ Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/ye
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-sv.md) - Markera källkod. Utvecklad av Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-sv.md) - Ikoner och symboler. Utvecklad av Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Bilder och miniatyrbilder. Utvecklad av Anna Svensson.
-* [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Inkludera sidinnehåll från andra sidor. Utvecklad av Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Bädda in Instagram-foton. Utvecklad av Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-sv.md) - Metadata för människor och maskiner. Utvecklad av Anna Svensson, Steffen Schultz.
-* [Pagesource](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/pagesource) - Visa Markdown-källtext på sidor. Utvecklad av Steffen Schultz.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast) - Webbflöde optimerat för publicering av podcast. Utvecklad av Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-sv.md) - Visa länkar till föregående/nästa sida. Utvecklad av Anna Svensson.

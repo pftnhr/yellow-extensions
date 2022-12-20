@@ -6,7 +6,6 @@ Funktionen, Sprachen und Themes für Datenstrom Yellow. https://datenstrom.se/de
 
 ## Funktionen
 
-* [Antispam](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/antispam/README-de.md) - Alternative Verschleierung von E-Mail-Adressen. Entwickelt von Steffen Schultz.
 * [Audio](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/audio/README-de.md) - HTML5-Audio-Player. Entwickelt von Steffen Schultz.
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md) - Blog für deine Webseite. Entwickelt von Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-de.md) - Brotkrümel-Navigation. Entwickelt von Anna Svensson.
@@ -29,11 +28,9 @@ Funktionen, Sprachen und Themes für Datenstrom Yellow. https://datenstrom.se/de
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-de.md) - Icons und Symbole. Entwickelt von Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen. Entwickelt von Anna Svensson.
-* [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include/README-de.md) - Seiteninhalt von anderen Seiten einbinden. Entwickelt von Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Instagram-Fotos einbinden. Entwickelt von Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson, Steffen Schultz.
-* [Pagesource](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/pagesource/README-de.md) - Markdown-Quelltext auf Seiten anzeigen. Entwickelt von Steffen Schultz.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast/README-de.md) - Web-Feed optimiert für die Podcast-Veröffentlichung. Entwickelt von Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-de.md) - Links zu vorherigen/nächsten Seite anzeigen. Entwickelt von Anna Svensson.

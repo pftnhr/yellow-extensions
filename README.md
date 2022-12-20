@@ -6,7 +6,6 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 
 ## Features
 
-* [Antispam](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/antispam) - Alternative email address obfuscator. Developed by Steffen Schultz.
 * [Audio](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/audio) - HTML5 audio player. Developed by Steffen Schultz.
 * [Blog](https://github.com/annaesvensson/yellow-blog) - Blog for your website. Developed by Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb) - Breadcrumb navigation. Developed by Anna Svensson.
@@ -29,11 +28,9 @@ Features, languages and themes for Datenstrom Yellow. https://datenstrom.se/yell
 * [Highlight](https://github.com/annaesvensson/yellow-highlight) - Highlight source code. Developed by Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon) - Icons and symbols. Developed by Anna Svensson.
 * [Image](https://github.com/annaesvensson/yellow-image) - Images and thumbnails. Developed by Anna Svensson.
-* [Include](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/include) - Include page content from other pages. Developed by Steffen Schultz.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Embed Instagram photos. Developed by Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown) - Text formatting for humans. Developed by Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta) - Meta data for humans and machines. Developed by Anna Svensson, Steffen Schultz.
-* [Pagesource](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/pagesource) - Display Markdown source on pages. Developed by Steffen Schultz.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown) - Text formatting for humans. Developed by Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast) - Web feed optimized for podcast publishing. Developed by Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext) - Show links to previous/next page. Developed by Anna Svensson.
