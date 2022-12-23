@@ -23,7 +23,7 @@ Funktionen, Sprachen und Themes für Datenstrom Yellow. https://datenstrom.se/de
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-de.md) - Bildergalerie mit Popup. Entwickelt von Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-de.md) - Google-Kalender einbinden. Entwickelt von Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-de.md) - Google-Karten einbinden. Entwickelt von Anna Svensson.
-* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Erzeuge animierten Text. Entwickelt von Steffen Schultz.
+* [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Animierten Text erstellen. Entwickelt von Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) - Hilfe für deine Webseite. Entwickelt von Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-de.md) - Icons und Symbole. Entwickelt von Anna Svensson.
