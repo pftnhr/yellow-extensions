@@ -2,7 +2,7 @@
 
 # Datenstrom Yellow tillägg
 
-Funktioner, språk och teman för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
+Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 
 ## Funktioner
 
