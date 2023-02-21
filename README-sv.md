@@ -55,6 +55,7 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 
 ## Språk
 
+* [Catalan](https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan) - Catalan language. Översatt av Andreu Ferrer.
 * [Chinese](https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese) - Kinesiska språket. Översatt av Hyson Lee.
 * [Czech](https://github.com/annaesvensson/yellow-language/tree/main/translations/czech) - Tjeckiska språket. Översatt av Ufo Vyhuleny.
 * [Danish](https://github.com/annaesvensson/yellow-language/tree/main/translations/danish) - Danska språket. Översatt av David Garcia.
