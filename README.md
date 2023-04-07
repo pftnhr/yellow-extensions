@@ -48,7 +48,6 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Hide certain page elements. Developed by Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc) - Table of contents. Developed by Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic) - Create traffic analytics from log files. Developed by Anna Svensson.
-* [Twitter](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/twitter) - Embed Twitter messages. Developed by Steffen Schultz.
 * [Update](https://github.com/annaesvensson/yellow-update) - Keep your website up to date. Developed by Anna Svensson.
 * [Wiki](https://github.com/annaesvensson/yellow-wiki) - Wiki for your website. Developed by Anna Svensson.
 * [Youtube](https://github.com/annaesvensson/yellow-youtube) - Embed Youtube videos. Developed by Anna Svensson.

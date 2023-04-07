@@ -48,7 +48,6 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
-* [Twitter](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/twitter/README-de.md) - Twitter-Nachrichten einbinden. Entwickelt von Steffen Schultz.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md) - Webseite auf dem neusten Stand halten. Entwickelt von Anna Svensson.
 * [Wiki](https://github.com/annaesvensson/yellow-wiki/tree/main/README-de.md) - Wiki für deine Webseite. Entwickelt von Anna Svensson.
 * [Youtube](https://github.com/annaesvensson/yellow-youtube/tree/main/README-de.md) - Youtube-Videos einbinden. Entwickelt von Anna Svensson.

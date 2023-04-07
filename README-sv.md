@@ -48,7 +48,6 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Dölj vissa sidelement. Utvecklad av Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-sv.md) - Innehållsförteckning. Utvecklad av Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-sv.md) - Skapa trafikanalyser från loggfiler. Utvecklad av Anna Svensson.
-* [Twitter](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/twitter) - Bädda in Twitter-meddelanden. Utvecklad av Steffen Schultz.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md) - Håll din webbplats uppdaterad. Utvecklad av Anna Svensson.
 * [Wiki](https://github.com/annaesvensson/yellow-wiki/tree/main/README-sv.md) - Wiki för din webbplats. Utvecklad av Anna Svensson.
 * [Youtube](https://github.com/annaesvensson/yellow-youtube/tree/main/README-sv.md) - Bädda in Youtube-videor. Utvecklad av Anna Svensson.
