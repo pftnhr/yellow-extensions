@@ -34,7 +34,7 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown) - Text formatting for humans. Developed by Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast) - Web feed optimized for podcast publishing. Developed by Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext) - Show links to previous/next page. Developed by Anna Svensson.
-* [Private](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/private) - Support for password-protected pages. Developed by Steffen Schultz.
+* [Private](https://github.com/schulle4u/yellow-private) - Support for password-protected pages. Developed by Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish) - Make and publish extensions. Developed by Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss) - Widgets for RadioBoss Cloud. Developed by Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random) - Display random pages. Developed by Steffen Schultz.

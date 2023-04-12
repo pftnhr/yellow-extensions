@@ -34,7 +34,7 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast/README-de.md) - Web-Feed optimiert für die Podcast-Veröffentlichung. Entwickelt von Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-de.md) - Links zu vorherigen/nächsten Seite anzeigen. Entwickelt von Anna Svensson.
-* [Private](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/private/README-de.md) - Unterstützung für passwortgeschützte Seiten. Entwickelt von Steffen Schultz.
+* [Private](https://github.com/schulle4u/yellow-private/tree/main/README-de.md) - Unterstützung für passwortgeschützte Seiten. Entwickelt von Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish/tree/main/README-de.md) - Erweiterungen erstellen und veröffentlichen. Entwickelt von Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss/README-de.md) - Widgets für RadioBoss Cloud. Entwickelt von Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random/README-de.md) - Zufällige Seiten anzeigen. Entwickelt von Steffen Schultz.

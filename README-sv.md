@@ -34,7 +34,7 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast) - Webbflöde optimerat för publicering av podcast. Utvecklad av Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-sv.md) - Visa länkar till föregående/nästa sida. Utvecklad av Anna Svensson.
-* [Private](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/private) - Stöd för lösenordsskyddade sidor. Utvecklad av Steffen Schultz.
+* [Private](https://github.com/schulle4u/yellow-private) - Stöd för lösenordsskyddade sidor. Utvecklad av Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish/tree/main/README-sv.md) - Göra och publicera tillägg. Utvecklad av Anna Svensson.
 * [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss) - Widgets för RadioBoss Cloud. Utvecklad av Steffen Schultz.
 * [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random) - Visa slumpmässiga sidor. Utvecklad av Steffen Schultz.
