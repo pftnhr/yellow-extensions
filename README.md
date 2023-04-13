@@ -11,7 +11,6 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb) - Breadcrumb navigation. Developed by Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle) - Bundle website files. Developed by Anna Svensson.
 * [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile) - Download code blocks as text file. Developed by Steffen Schultz.
-* [Command](https://github.com/annaesvensson/yellow-command) - Command line of the website. Developed by Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact) - Email contact page. Developed by Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of the website. Developed by Mark Seuffert, David Fehrmann.
 * [Csv](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/csv) - CSV file parser. Developed by Steffen Schultz.
@@ -46,6 +45,7 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Slider](https://github.com/annaesvensson/yellow-slider) - Image gallery with slider. Developed by Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud) - Embed Soundcloud audio tracks. Developed by Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Hide certain page elements. Developed by Steffen Schultz.
+* [Static](https://github.com/annaesvensson/yellow-static) - Build a static website. Developed by Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc) - Table of contents. Developed by Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic) - Create traffic analytics from log files. Developed by Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update) - Keep your website up to date. Developed by Anna Svensson.

@@ -11,7 +11,6 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-de.md) - Brotkrümel-Navigation. Entwickelt von Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-de.md) - Webseiten-Dateien bündeln. Entwickelt von Anna Svensson.
 * [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile/README-de.md) - Code-Blöcke als Textdatei herunterladen. Entwickelt von Steffen Schultz.
-* [Command](https://github.com/annaesvensson/yellow-command/tree/main/README-de.md) - Befehlszeile der Webseite. Entwickelt von Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität der Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
 * [Csv](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/csv/README-de.md) - CSV-Dateileser. Entwickelt von Steffen Schultz.
@@ -46,6 +45,7 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-de.md) - Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud/README-de.md) - Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
+* [Static](https://github.com/annaesvensson/yellow-static/tree/main/README-de.md) - Statische Webseite erstellen. Entwickelt von Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md) - Webseite auf dem neusten Stand halten. Entwickelt von Anna Svensson.
