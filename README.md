@@ -45,7 +45,7 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Slider](https://github.com/annaesvensson/yellow-slider) - Image gallery with slider. Developed by Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud) - Embed Soundcloud audio tracks. Developed by Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Hide certain page elements. Developed by Steffen Schultz.
-* [Static](https://github.com/annaesvensson/yellow-static) - Build a static website. Developed by Anna Svensson.
+* [Static](https://github.com/annaesvensson/yellow-static) - Generate a static website. Developed by Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc) - Table of contents. Developed by Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic) - Create traffic analytics from log files. Developed by Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update) - Keep your website up to date. Developed by Anna Svensson.

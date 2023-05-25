@@ -45,7 +45,7 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-de.md) - Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud/README-de.md) - Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
-* [Static](https://github.com/annaesvensson/yellow-static/tree/main/README-de.md) - Statische Webseite erstellen. Entwickelt von Anna Svensson.
+* [Static](https://github.com/annaesvensson/yellow-static/tree/main/README-de.md) - Statische Webseite generieren. Entwickelt von Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md) - Webseite auf dem neusten Stand halten. Entwickelt von Anna Svensson.
