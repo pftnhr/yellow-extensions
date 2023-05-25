@@ -25,4 +25,4 @@ jobs:
       - name: Set up test environment
         run: php make-tests.php
       - name: Run tests
-        run: cd tests; php yellow.php build tests
+        run: cd tests; php yellow.php generate tests
