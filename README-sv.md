@@ -20,6 +20,7 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-sv.md) - Massor och massor av emoji. Utvecklad av Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed/tree/main/README-sv.md) - Feed med senaste ändringarna. Utvecklad av Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-sv.md) - Bildgalleri med popup. Utvecklad av Anna Svensson.
+* [Generate](https://github.com/annaesvensson/yellow-generate/tree/main/README-sv.md) - Generera en statisk webbplats. Utvecklad av Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-sv.md) - Bädda in Google-kalender. Utvecklad av Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-sv.md) - Bädda in Google-karta. Utvecklad av Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Skapa animerad text. Utvecklad av Steffen Schultz.
@@ -45,7 +46,6 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-sv.md) - Bildgalleri med reglaget. Utvecklad av Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud) - Bädda in Soundcloud-ljudspår. Utvecklad av Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Dölj vissa sidelement. Utvecklad av Steffen Schultz.
-* [Static](https://github.com/annaesvensson/yellow-static/tree/main/README-sv.md) - Generera en statisk webbplats. Utvecklad av Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-sv.md) - Innehållsförteckning. Utvecklad av Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-sv.md) - Skapa trafikanalyser från loggfiler. Utvecklad av Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md) - Håll din webbplats uppdaterad. Utvecklad av Anna Svensson.

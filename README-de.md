@@ -20,6 +20,7 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed/tree/main/README-de.md) - Feed mit letzten Änderungen. Entwickelt von Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery/tree/main/README-de.md) - Bildergalerie mit Popup. Entwickelt von Anna Svensson.
+* [Generate](https://github.com/annaesvensson/yellow-generate/tree/main/README-de.md) - Statische Webseite generieren. Entwickelt von Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-de.md) - Google-Kalender einbinden. Entwickelt von Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-de.md) - Google-Karten einbinden. Entwickelt von Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Animierten Text erstellen. Entwickelt von Steffen Schultz.
@@ -45,7 +46,6 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-de.md) - Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud/README-de.md) - Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
-* [Static](https://github.com/annaesvensson/yellow-static/tree/main/README-de.md) - Statische Webseite generieren. Entwickelt von Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md) - Webseite auf dem neusten Stand halten. Entwickelt von Anna Svensson.

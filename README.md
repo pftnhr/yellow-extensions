@@ -20,6 +20,7 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Emoji](https://github.com/annaesvensson/yellow-emoji) - Lots and lots of emoji. Developed by Anna Svensson.
 * [Feed](https://github.com/annaesvensson/yellow-feed) - Feed with recent changes. Developed by Anna Svensson.
 * [Gallery](https://github.com/annaesvensson/yellow-gallery) - Image gallery with popup. Developed by Anna Svensson.
+* [Generate](https://github.com/annaesvensson/yellow-generate) - Generate a static website. Developed by Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar) - Embed Google calendar. Developed by Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap) - Embed Google map. Developed by Anna Svensson.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Make animated text. Developed by Steffen Schultz.
@@ -45,7 +46,6 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Slider](https://github.com/annaesvensson/yellow-slider) - Image gallery with slider. Developed by Anna Svensson.
 * [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud) - Embed Soundcloud audio tracks. Developed by Steffen Schultz.
 * [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler) - Hide certain page elements. Developed by Steffen Schultz.
-* [Static](https://github.com/annaesvensson/yellow-static) - Generate a static website. Developed by Anna Svensson.
 * [Toc](https://github.com/annaesvensson/yellow-toc) - Table of contents. Developed by Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic) - Create traffic analytics from log files. Developed by Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update) - Keep your website up to date. Developed by Anna Svensson.
