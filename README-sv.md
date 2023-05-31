@@ -10,6 +10,7 @@ Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md) - Blogg för din webbplats. Utvecklad av Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-sv.md) - Brödcrumbnavigering. Utvecklad av Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-sv.md) - Bundla webbplatsfiler. Utvecklad av Anna Svensson.
+* [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-sv.md) - Hitta trasiga länkar. Utvecklad av Anna Svensson.
 * [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile) - Ladda ner kodblock som textfil. Utvecklad av Steffen Schultz.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-sv.md) - E-post kontaktsida. Utvecklad av Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md) - Webbplatsens kärnfunktion. Utvecklad av Mark Seuffert, David Fehrmann.

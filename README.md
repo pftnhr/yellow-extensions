@@ -10,6 +10,7 @@ Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 * [Blog](https://github.com/annaesvensson/yellow-blog) - Blog for your website. Developed by Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb) - Breadcrumb navigation. Developed by Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle) - Bundle website files. Developed by Anna Svensson.
+* [Check](https://github.com/annaesvensson/yellow-check) - Find broken links. Developed by Anna Svensson.
 * [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile) - Download code blocks as text file. Developed by Steffen Schultz.
 * [Contact](https://github.com/annaesvensson/yellow-contact) - Email contact page. Developed by Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of the website. Developed by Mark Seuffert, David Fehrmann.

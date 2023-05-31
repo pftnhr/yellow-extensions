@@ -10,6 +10,7 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md) - Blog für deine Webseite. Entwickelt von Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-de.md) - Brotkrümel-Navigation. Entwickelt von Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-de.md) - Webseiten-Dateien bündeln. Entwickelt von Anna Svensson.
+* [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-de.md) - Defekte Links finden. Entwickelt von Anna Svensson.
 * [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile/README-de.md) - Code-Blöcke als Textdatei herunterladen. Entwickelt von Steffen Schultz.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität der Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
