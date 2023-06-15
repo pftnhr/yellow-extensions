@@ -6,16 +6,12 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 
 ## Funktionen
 
-* [Audio](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/audio/README-de.md) - HTML5-Audio-Player. Entwickelt von Steffen Schultz.
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md) - Blog für deine Webseite. Entwickelt von Anna Svensson.
 * [Breadcrumb](https://github.com/annaesvensson/yellow-breadcrumb/tree/main/README-de.md) - Brotkrümel-Navigation. Entwickelt von Anna Svensson.
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-de.md) - Webseiten-Dateien bündeln. Entwickelt von Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-de.md) - Defekte Links finden. Entwickelt von Anna Svensson.
-* [Codefile](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/codefile/README-de.md) - Code-Blöcke als Textdatei herunterladen. Entwickelt von Steffen Schultz.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
 * [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität der Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
-* [Csv](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/csv/README-de.md) - CSV-Dateileser. Entwickelt von Steffen Schultz.
-* [Daily](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/daily/README-de.md) - Tägliche Seiten anzeigen. Entwickelt von Steffen Schultz.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-de.md) - Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) - Webseite im Webbrowser bearbeiten. Entwickelt von Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
@@ -33,20 +29,13 @@ Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson, Steffen Schultz.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
-* [Podcast](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/podcast/README-de.md) - Web-Feed optimiert für die Podcast-Veröffentlichung. Entwickelt von Steffen Schultz.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-de.md) - Links zu vorherigen/nächsten Seite anzeigen. Entwickelt von Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-private/tree/main/README-de.md) - Unterstützung für passwortgeschützte Seiten. Entwickelt von Steffen Schultz.
 * [Publish](https://github.com/annaesvensson/yellow-publish/tree/main/README-de.md) - Erweiterungen erstellen und veröffentlichen. Entwickelt von Anna Svensson.
-* [Radioboss](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/radioboss/README-de.md) - Widgets für RadioBoss Cloud. Entwickelt von Steffen Schultz.
-* [Random](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/random/README-de.md) - Zufällige Seiten anzeigen. Entwickelt von Steffen Schultz.
-* [Readingtime](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/readingtime/README-de.md) - Zeigt die geschätzte Lesezeit für den Seiteninhalt an. Entwickelt von Steffen Schultz.
-* [Redirect](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/redirect/README-de.md) - Alternative Seitenweiterleitung. Entwickelt von Steffen Schultz.
 * [Search](https://github.com/annaesvensson/yellow-search/tree/main/README-de.md) - Volltext-Suche. Entwickelt von Anna Svensson.
 * [Serve](https://github.com/annaesvensson/yellow-serve/tree/main/README-de.md) - Eingebauter Webserver. Entwickelt von Anna Svensson.
 * [Sitemap](https://github.com/annaesvensson/yellow-sitemap/tree/main/README-de.md) - Sitemap mit allen Seiten. Entwickelt von Anna Svensson.
 * [Slider](https://github.com/annaesvensson/yellow-slider/tree/main/README-de.md) - Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
-* [Soundcloud](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/soundcloud/README-de.md) - Soundcloud-Audio einbinden. Entwickelt von Steffen Schultz.
-* [Spoiler](https://github.com/schulle4u/yellow-extensions-schulle4u/tree/main/spoiler/README-de.md) - Bestimmte Seitenelemente verstecken. Entwickelt von Steffen Schultz.
 * [Toc](https://github.com/annaesvensson/yellow-toc/tree/main/README-de.md) - Inhaltsverzeichnis anzeigen. Entwickelt von Anna Svensson.
 * [Traffic](https://github.com/annaesvensson/yellow-traffic/tree/main/README-de.md) - Zugriffsanalysen aus Logdateien erstellen. Entwickelt von Anna Svensson.
 * [Update](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md) - Webseite auf dem neusten Stand halten. Entwickelt von Anna Svensson.
