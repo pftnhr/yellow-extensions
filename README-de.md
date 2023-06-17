@@ -4,6 +4,8 @@
 
 Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/yellow/
 
+Passe deine Website mit Erweiterungen an. Die Installation enthält die wichtigsten Erweiterungen für kleine Webseiten und du kannst mehr hinzufügen. Du kannst Funktionen, Sprachen und Themes hinzufügen. Schau dir die veröffentlichten Erweiterungen an und installiere sie auf deiner Website. Fühlst du dich mutig? [Experimentelle Erweiterungen anschauen](https://github.com/topics/datenstrom-yellow).
+
 ## Funktionen
 
 * [Blog](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md) - Blog für deine Webseite. Entwickelt von Anna Svensson.
