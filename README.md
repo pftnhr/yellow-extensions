@@ -4,6 +4,8 @@
 
 Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 
+Customise your website with extensions. The installation includes the most important extensions for small websites and you can add more. You can add features, languages and themes. Have a look at published extensions and install them on your website. Feeling brave? [See experimental extensions](https://github.com/topics/datenstrom-yellow).
+
 ## Features
 
 * [Blog](https://github.com/annaesvensson/yellow-blog) - Blog for your website. Developed by Anna Svensson.
