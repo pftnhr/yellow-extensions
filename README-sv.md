@@ -4,7 +4,7 @@
 
 Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 
-Anpassa din webbplats med tillägg. Installationen innehåller de viktigaste tilläggen för små webbplatser och du kan lägga till fler. Du kan lägga till funktioner, språk och teman. Titta på publicerade tillägg och installera dem på din webbplats. Känner du dig modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
+Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktigaste tilläggen för små webbsidor. Du kan lägga till funktioner, språk och teman. Titta på publicerade tillägg och installera dem på din webbplats. Känner du dig modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
 
 ## Funktioner
 
