@@ -13,7 +13,7 @@ Customise your website with extensions. The standard installation comes with the
 * [Bundle](https://github.com/annaesvensson/yellow-bundle) - Bundle website files. Developed by Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check) - Find broken links. Developed by Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact) - Email contact page. Developed by Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of the website. Developed by Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of your website. Developed by Mark Seuffert, David Fehrmann.
 * [Draft](https://github.com/annaesvensson/yellow-draft) - Support for draft pages. Developed by Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit) - Edit your website in a web browser. Developed by Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji) - Lots and lots of emoji. Developed by Anna Svensson.

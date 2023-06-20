@@ -13,7 +13,7 @@ Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktiga
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-sv.md) - Bundla webbplatsfiler. Utvecklad av Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-sv.md) - Hitta trasiga länkar. Utvecklad av Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-sv.md) - E-post kontaktsida. Utvecklad av Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md) - Webbplatsens kärnfunktion. Utvecklad av Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md) - Kärnfunktionalitet på din webbplats. Utvecklad av Mark Seuffert, David Fehrmann.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-sv.md) - Stöd för draftsidor. Utvecklad av Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-sv.md) - Redigera din webbplats i en webbläsare. Utvecklad av Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-sv.md) - Massor och massor av emoji. Utvecklad av Anna Svensson.

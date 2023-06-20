@@ -13,7 +13,7 @@ Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-de.md) - Webseiten-Dateien bündeln. Entwickelt von Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-de.md) - Defekte Links finden. Entwickelt von Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität der Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität deiner Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-de.md) - Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) - Webseite im Webbrowser bearbeiten. Entwickelt von Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
