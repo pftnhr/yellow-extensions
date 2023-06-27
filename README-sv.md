@@ -4,7 +4,7 @@
 
 Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 
-Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktigaste tilläggen för små webbsidor. Du kan lägga till funktioner, språk och teman. Titta på publicerade tillägg och installera dem på din webbplats. Känner du dig modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
+Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktigaste tilläggen för små webbsidor. Du kan lägga till funktioner, språk och teman. Titta på publicerade tillägg och installera dem på din webbplats. Är du modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
 
 ## Funktioner
 
@@ -13,7 +13,7 @@ Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktiga
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-sv.md) - Bundla webbplatsfiler. Utvecklad av Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-sv.md) - Hitta trasiga länkar. Utvecklad av Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-sv.md) - E-post kontaktsida. Utvecklad av Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md) - Kärnfunktionalitet på din webbplats. Utvecklad av Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md) - Kärnfunktionalitet på din webbplats. Utvecklad av Anna Svensson.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-sv.md) - Stöd för draftsidor. Utvecklad av Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-sv.md) - Redigera din webbplats i en webbläsare. Utvecklad av Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-sv.md) - Massor och massor av emoji. Utvecklad av Anna Svensson.
@@ -29,7 +29,7 @@ Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktiga
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Bilder och miniatyrbilder. Utvecklad av Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Bädda in Instagram-foton. Utvecklad av Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
-* [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-sv.md) - Metadata för människor och maskiner. Utvecklad av Anna Svensson, Steffen Schultz.
+* [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-sv.md) - Metadata för människor och maskiner. Utvecklad av Anna Svensson.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-sv.md) - Visa länkar till föregående/nästa sida. Utvecklad av Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-private) - Stöd för lösenordsskyddade sidor. Utvecklad av Steffen Schultz.

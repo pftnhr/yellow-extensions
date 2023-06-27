@@ -13,7 +13,7 @@ Customise your website with extensions. The standard installation comes with the
 * [Bundle](https://github.com/annaesvensson/yellow-bundle) - Bundle website files. Developed by Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check) - Find broken links. Developed by Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact) - Email contact page. Developed by Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of your website. Developed by Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core) - Core functionality of your website. Developed by Anna Svensson.
 * [Draft](https://github.com/annaesvensson/yellow-draft) - Support for draft pages. Developed by Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit) - Edit your website in a web browser. Developed by Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji) - Lots and lots of emoji. Developed by Anna Svensson.
@@ -29,7 +29,7 @@ Customise your website with extensions. The standard installation comes with the
 * [Image](https://github.com/annaesvensson/yellow-image) - Images and thumbnails. Developed by Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Embed Instagram photos. Developed by Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown) - Text formatting for humans. Developed by Anna Svensson.
-* [Meta](https://github.com/annaesvensson/yellow-meta) - Meta data for humans and machines. Developed by Anna Svensson, Steffen Schultz.
+* [Meta](https://github.com/annaesvensson/yellow-meta) - Meta data for humans and machines. Developed by Anna Svensson.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown) - Text formatting for humans. Developed by Anna Svensson.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext) - Show links to previous/next page. Developed by Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-private) - Support for password-protected pages. Developed by Steffen Schultz.

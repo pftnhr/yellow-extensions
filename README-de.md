@@ -4,7 +4,7 @@
 
 Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/yellow/
 
-Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die wichtigsten Erweiterungen für kleine Webseiten. Du kannst Funktionen, Sprachen und Themes hinzufügen. Schau dir die veröffentlichten Erweiterungen an und installiere sie auf deiner Webseite. Fühlst du dich mutig? [Experimentelle Erweiterungen anschauen](https://github.com/topics/datenstrom-yellow).
+Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die wichtigsten Erweiterungen für kleine Webseiten. Du kannst Funktionen, Sprachen und Themes hinzufügen. Schau dir die veröffentlichten Erweiterungen an und installiere sie auf deiner Webseite. Bist du mutig? [Experimentelle Erweiterungen anschauen](https://github.com/topics/datenstrom-yellow).
 
 ## Funktionen
 
@@ -13,7 +13,7 @@ Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die
 * [Bundle](https://github.com/annaesvensson/yellow-bundle/tree/main/README-de.md) - Webseiten-Dateien bündeln. Entwickelt von Anna Svensson.
 * [Check](https://github.com/annaesvensson/yellow-check/tree/main/README-de.md) - Defekte Links finden. Entwickelt von Anna Svensson.
 * [Contact](https://github.com/annaesvensson/yellow-contact/tree/main/README-de.md) - E-Mail-Kontaktseite. Entwickelt von Anna Svensson.
-* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität deiner Webseite. Entwickelt von Mark Seuffert, David Fehrmann.
+* [Core](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) - Kernfunktionalität deiner Webseite. Entwickelt von Anna Svensson.
 * [Draft](https://github.com/annaesvensson/yellow-draft/tree/main/README-de.md) - Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 * [Edit](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) - Webseite im Webbrowser bearbeiten. Entwickelt von Anna Svensson.
 * [Emoji](https://github.com/annaesvensson/yellow-emoji/tree/main/README-de.md) - Jede Menge Emoji. Entwickelt von Anna Svensson.
@@ -29,7 +29,7 @@ Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die
 * [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen. Entwickelt von Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Instagram-Fotos einbinden. Entwickelt von Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
-* [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson, Steffen Schultz.
+* [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson.
 * [Parsedown](https://github.com/annaesvensson/yellow-parsedown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Previousnext](https://github.com/annaesvensson/yellow-previousnext/tree/main/README-de.md) - Links zu vorherigen/nächsten Seite anzeigen. Entwickelt von Anna Svensson.
 * [Private](https://github.com/schulle4u/yellow-private/tree/main/README-de.md) - Unterstützung für passwortgeschützte Seiten. Entwickelt von Steffen Schultz.
