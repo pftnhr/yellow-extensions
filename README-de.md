@@ -26,7 +26,7 @@ Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) - Hilfe für deine Webseite. Entwickelt von Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-de.md) - Icons und Symbole. Entwickelt von Anna Svensson.
-* [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen. Entwickelt von Anna Svensson.
+* [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-de.md) - Bilder in unterschiedlichen Größen hinzufügen. Entwickelt von Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Instagram-Fotos einbinden. Entwickelt von Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-de.md) - Textformatierung für Menschen. Entwickelt von Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-de.md) - Metadaten für Menschen und Maschinen. Entwickelt von Anna Svensson.

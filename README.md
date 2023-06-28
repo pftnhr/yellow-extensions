@@ -26,7 +26,7 @@ Customise your website with extensions. The standard installation comes with the
 * [Help](https://github.com/annaesvensson/yellow-help) - Help for your website. Developed by Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight) - Highlight source code. Developed by Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon) - Icons and symbols. Developed by Anna Svensson.
-* [Image](https://github.com/annaesvensson/yellow-image) - Images and thumbnails. Developed by Anna Svensson.
+* [Image](https://github.com/annaesvensson/yellow-image) - Add images and thumbnails. Developed by Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Embed Instagram photos. Developed by Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown) - Text formatting for humans. Developed by Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta) - Meta data for humans and machines. Developed by Anna Svensson.

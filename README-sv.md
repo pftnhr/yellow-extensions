@@ -26,7 +26,7 @@ Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktiga
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) - Hjälp för din webbplats. Utvecklad av Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-sv.md) - Markera källkod. Utvecklad av Anna Svensson.
 * [Icon](https://github.com/annaesvensson/yellow-icon/tree/main/README-sv.md) - Ikoner och symboler. Utvecklad av Anna Svensson.
-* [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Bilder och miniatyrbilder. Utvecklad av Anna Svensson.
+* [Image](https://github.com/annaesvensson/yellow-image/tree/main/README-sv.md) - Lägg till bilder och miniatyrbilder. Utvecklad av Anna Svensson.
 * [Instagram](https://github.com/GiovanniSalmeri/yellow-instagram) - Bädda in Instagram-foton. Utvecklad av Giovanni Salmeri.
 * [Markdown](https://github.com/annaesvensson/yellow-markdown/tree/main/README-sv.md) - Textformatering för människor. Utvecklad av Anna Svensson.
 * [Meta](https://github.com/annaesvensson/yellow-meta/tree/main/README-sv.md) - Metadata för människor och maskiner. Utvecklad av Anna Svensson.
