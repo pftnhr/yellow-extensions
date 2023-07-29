@@ -4,7 +4,7 @@
 
 Publicerade tillägg för Datenstrom Yellow. https://datenstrom.se/sv/yellow/
 
-Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktigaste tilläggen för små webbsidor. Du kan lägga till funktioner, språk och teman. Titta på publicerade tillägg och installera dem på din webbplats. Är du modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
+Tillägg gör din webbplats mer användbar. Här hittar du funktioner, språk och teman. Alla tillägg kommer med dokumentation som förklarar hur de fungerar, samt exempel för att göra ditt liv enklare. Titta på publicerade tilläggen och installera några på din webbplats. Är du modig? [Titta på experimentella tillägg](https://github.com/topics/datenstrom-yellow).
 
 ## Funktioner
 
@@ -73,5 +73,9 @@ Anpassa din webbplats med tillägg. Standardinstallationen kommer med de viktiga
 * [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-sv.md) - Paris är ett elegant tema. Designad av Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-sv.md) - Stockholm är ett rent tema. Designad av Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock) - Wittstock är ett klasslöst tema. Designad av Steffen Schultz.
+
+## Samarbete
+
+Jobba med oss, ställ frågor och rapportera fel. Vi är intresserade av vad du vill göra och vilka problem du har. Ju mer vi vet desto bättre kan vi hjälpa till. Vår nätgemenskap är en plats att hjälpa varandra. Där du kan ställa och svara på frågor. [Läs mer om samarbete](https://datenstrom.se/sv/yellow/help/contributing-guidelines).
 
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
