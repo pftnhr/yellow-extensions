@@ -4,7 +4,7 @@
 
 Veröffentlichte Erweiterungen für Datenstrom Yellow. https://datenstrom.se/de/yellow/
 
-Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die wichtigsten Erweiterungen für kleine Webseiten. Du kannst Funktionen, Sprachen und Themes hinzufügen. Schau dir die veröffentlichten Erweiterungen an und installiere sie auf deiner Webseite. Bist du mutig? [Experimentelle Erweiterungen anschauen](https://github.com/topics/datenstrom-yellow).
+Erweiterungen machen deine Webseite nützlicher. Hier findest du Funktionen, Sprachen und Themes. Zu allen Erweiterungen gibt es eine Dokumentation die ihre Funktionsweise erklärt, sowie Beispiele um dir das Leben zu erleichtern. Schau dir die veröffentlichten Erweiterungen an und installiere welche auf deiner Webseite. Bist du mutig? [Experimentelle Erweiterungen anschauen](https://github.com/topics/datenstrom-yellow).
 
 ## Funktionen
 
@@ -73,5 +73,9 @@ Passe deine Webseite mit Erweiterungen an. Die Standardinstallation enthält die
 * [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-de.md) - Paris ist ein elegantes Theme. Entworfen von Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-de.md) - Stockholm ist ein schlichtes Theme. Entworfen von Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock/tree/main/README-de.md) - Wittstock ist ein klassenloses Theme. Entworfen von Steffen Schultz.
+
+## Zusammenarbeit
+
+Arbeite mit uns, stelle Fragen und melde Fehler. Es interessiert uns was du machen möchtest und welche Probleme du hast. Je mehr wir wissen, desto besser können wir dir helfen. Unsere Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. [Weitere Informationen zum Zusammenarbeiten](https://datenstrom.se/de/yellow/help/contributing-guidelines).
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
