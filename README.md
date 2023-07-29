@@ -4,7 +4,7 @@
 
 Published extensions for Datenstrom Yellow. https://datenstrom.se/yellow/
 
-Customise your website with extensions. The standard installation comes with the most important extensions for small websites. You can add features, languages and themes. Have a look at published extensions and install them on your website. Feeling brave? [See experimental extensions](https://github.com/topics/datenstrom-yellow).
+Extensions make your website more useful. Here you can find features, languages and themes. All extensions come with a documentation explaining how they work and examples to make your life easier. Have a look at published extensions and install some on your website. Feeling brave? [See experimental extensions](https://github.com/topics/datenstrom-yellow).
 
 ## Features
 
@@ -73,5 +73,9 @@ Customise your website with extensions. The standard installation comes with the
 * [Paris](https://github.com/annaesvensson/yellow-paris) - Paris is an elegant theme. Designed by Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm) - Stockholm is a clean theme. Designed by Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock) - Wittstock is a classless theme. Designed by Steffen Schultz.
+
+## Contributing
+
+Work with us, ask questions and report bugs. We are interested in what you want to do and which problems you have. The more we know the better we can help. Our community is a place to help each other. Where you can ask and answer questions. [Learn more about contributing](https://datenstrom.se/yellow/help/contributing-guidelines).
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
