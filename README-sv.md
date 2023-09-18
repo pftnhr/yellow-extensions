@@ -70,7 +70,7 @@ Tillägg gör din webbplats mer användbar. Här hittar du funktioner, språk oc
 
 * [Berlin](https://github.com/annaesvensson/yellow-berlin/tree/main/README-sv.md) - Berlin är ett tema inspirerat av Dieter Rams. Designad av Anna Svensson.
 * [Copenhagen](https://github.com/annaesvensson/yellow-copenhagen/tree/main/README-sv.md) - Copenhagen är ett vackert tema. Designad av Anna Svensson.
-* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is a semantic theme with Pico.css. Designad av Robert Pfotenhauer.
+* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is intended as a semantic starting point for theme developers. Designad av Robert Pfotenhauer.
 * [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-sv.md) - Paris är ett elegant tema. Designad av Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-sv.md) - Stockholm är ett rent tema. Designad av Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock) - Wittstock är ett klasslöst tema. Designad av Steffen Schultz.
