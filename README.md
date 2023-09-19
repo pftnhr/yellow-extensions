@@ -70,7 +70,7 @@ Extensions make your website more useful. Here you can find features, languages 
 
 * [Berlin](https://github.com/annaesvensson/yellow-berlin) - Berlin is a theme inspired by Dieter Rams. Designed by Anna Svensson.
 * [Copenhagen](https://github.com/annaesvensson/yellow-copenhagen) - Copenhagen is a beautiful theme. Designed by Anna Svensson.
-* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is intended as a semantic starting point for theme developers. Designed by Robert Pfotenhauer.
+* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is a semantic theme. Designed by Robert Pfotenhauer.
 * [Paris](https://github.com/annaesvensson/yellow-paris) - Paris is an elegant theme. Designed by Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm) - Stockholm is a clean theme. Designed by Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock) - Wittstock is a classless theme. Designed by Steffen Schultz.

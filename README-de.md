@@ -70,7 +70,7 @@ Erweiterungen machen deine Webseite nützlicher. Hier findest du Funktionen, Spr
 
 * [Berlin](https://github.com/annaesvensson/yellow-berlin/tree/main/README-de.md) - Berlin ist ein Theme inspiriert von Dieter Rams. Entworfen von Anna Svensson.
 * [Copenhagen](https://github.com/annaesvensson/yellow-copenhagen/tree/main/README-de.md) - Copenhagen ist ein schönes Theme. Entworfen von Anna Svensson.
-* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is intended as a semantic starting point for theme developers. Entworfen von Robert Pfotenhauer.
+* [Karlskrona](https://github.com/pftnhr/yellow-karlskrona) - Karlskrona is a semantic theme. Entworfen von Robert Pfotenhauer.
 * [Paris](https://github.com/annaesvensson/yellow-paris/tree/main/README-de.md) - Paris ist ein elegantes Theme. Entworfen von Anna Svensson.
 * [Stockholm](https://github.com/annaesvensson/yellow-stockholm/tree/main/README-de.md) - Stockholm ist ein schlichtes Theme. Entworfen von Anna Svensson.
 * [Wittstock](https://github.com/schulle4u/yellow-wittstock/tree/main/README-de.md) - Wittstock ist ein klassenloses Theme. Entworfen von Steffen Schultz.
