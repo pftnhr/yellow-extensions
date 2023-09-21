@@ -22,6 +22,7 @@ Extensions make your website more useful. Here you can find features, languages 
 * [Generate](https://github.com/annaesvensson/yellow-generate) - Generate a static website. Developed by Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar) - Embed Google calendar. Developed by Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap) - Embed Google map. Developed by Anna Svensson.
+* [Headinglink](https://github.com/pftnhr/yellow-headinglink) - Create Anchor Links next to headlines. Developed by Robert Pfotenhauer.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Make animated text. Developed by Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help) - Help for your website. Developed by Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight) - Highlight source code. Developed by Anna Svensson.

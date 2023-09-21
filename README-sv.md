@@ -22,6 +22,7 @@ Tillägg gör din webbplats mer användbar. Här hittar du funktioner, språk oc
 * [Generate](https://github.com/annaesvensson/yellow-generate/tree/main/README-sv.md) - Generera en statisk webbplats. Utvecklad av Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-sv.md) - Bädda in Google-kalender. Utvecklad av Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-sv.md) - Bädda in Google-karta. Utvecklad av Anna Svensson.
+* [Headinglink](https://github.com/pftnhr/yellow-headinglink) - Create Anchor Links next to headlines. Utvecklad av Robert Pfotenhauer.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Skapa animerad text. Utvecklad av Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) - Hjälp för din webbplats. Utvecklad av Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-sv.md) - Markera källkod. Utvecklad av Anna Svensson.

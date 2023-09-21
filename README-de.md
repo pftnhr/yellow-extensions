@@ -22,6 +22,7 @@ Erweiterungen machen deine Webseite nützlicher. Hier findest du Funktionen, Spr
 * [Generate](https://github.com/annaesvensson/yellow-generate/tree/main/README-de.md) - Statische Webseite generieren. Entwickelt von Anna Svensson.
 * [Googlecalendar](https://github.com/annaesvensson/yellow-googlecalendar/tree/main/README-de.md) - Google-Kalender einbinden. Entwickelt von Anna Svensson.
 * [Googlemap](https://github.com/annaesvensson/yellow-googlemap/tree/main/README-de.md) - Google-Karten einbinden. Entwickelt von Anna Svensson.
+* [Headinglink](https://github.com/pftnhr/yellow-headinglink) - Create Anchor Links next to headlines. Entwickelt von Robert Pfotenhauer.
 * [Helloworld](https://github.com/schulle4u/yellow-helloworld) - Animierten Text erstellen. Entwickelt von Steffen Schultz.
 * [Help](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) - Hilfe für deine Webseite. Entwickelt von Anna Svensson.
 * [Highlight](https://github.com/annaesvensson/yellow-highlight/tree/main/README-de.md) - Quellcode hervorheben. Entwickelt von Anna Svensson.
